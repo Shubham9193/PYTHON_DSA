@@ -21,6 +21,7 @@ types of data types
 Set, NoneType    
 
 print (type(x)) --> to check what is the data type of variable
+
 """
 
 x = 5
